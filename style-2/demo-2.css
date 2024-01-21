@@ -1,0 +1,37 @@
+.wrapper {
+  width: 100%;
+  overflow-y: auto;
+}
+.wrapper .container {
+  width: 100%;
+  margin: auto;
+  list-style: none;
+}
+.wrapper .container .box {
+  width: 100%;
+  padding: 10px 12px;
+  background: #ffffff;
+  box-shadow: 6px 8px 1.5px 0 rgba(0, 0, 0, 0.6);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.wrapper .container .box .question {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  width: 100%;
+  cursor: pointer;
+}
+.wrapper .container .box .answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s linear;
+}
+.wrapper .container .box .answer.active {
+  max-height: 100%;
+}
+.wrapper .container .box .answer__text {
+  font-size: clamp(8px, 2vw, 15px);
+  margin: 8px;
+}/*# sourceMappingURL=demo-2.css.map */

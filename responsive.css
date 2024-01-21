@@ -1,0 +1,1818 @@
+
+@media (max-width:767px){
+  /* ================Top-Header=======================*/
+
+.parent-top{
+  display: none;
+}
+
+/*=============Middle-Header===============*/
+
+#fnamekuku{
+  width: 340px;
+  margin: 20px 0px;
+  
+}
+.child-two{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+/* ==============================Section-one==================================== */
+/*  ========================================================================== */
+.parent-one{
+  width: 95%;
+  margin: auto;
+  display: block;
+  margin-top: 53.08px;
+  
+}
+.perfimu-sisi{
+  flex-basis:100%;
+  
+}
+.img-per{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.img-per img{
+  width: 100%;
+  height: 100%;
+}
+.right-site p{
+  width: 100%;
+
+}
+.ml-25 h3{
+  font-size: 12px;
+
+}
+.ml-50 h3{
+font-size: 12px;
+
+}
+.anadir h3{
+  width: 90%;
+  margin: auto;
+}
+.entrega{
+  display: block;
+  margin-top: 29.93px;
+}
+.entrega-aa{
+  width: 100%;
+  background-color: #EDECED;
+  
+}
+.dispon-si{
+  width: 100%;
+  background-color: #EDECED;
+  margin-left: 0px;
+margin-top: 20px;
+}
+/* ============Section-Two================ */
+/*  ========================================================================== */
+
+.parent-twoss{
+  display: block;
+  width: 100%;
+  align-items: center;
+  padding-top: 55.94px;
+
+}
+.swiper-lolo {
+  width: 90%;
+  margin: auto;
+  height: 100%;
+
+}
+.car-ho{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  margin-top: 30px;
+  }
+  .rak-dag{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 4px solid black;
+   margin-top: 50px;
+  }
+/* ==============================Section-Three==================================== */
+/*  ========================================================================== */
+
+.parent-three{
+  display: block;
+  width: 100%;
+margin-top: 80px;
+
+}
+
+.left-ki{
+  flex-basis: 47%;
+
+
+}
+.hiho{
+  width: 100%;
+  margin:0px 0px;
+
+}
+.right-ki{
+  flex-basis: 53%;
+
+}
+.application{
+  width: 100%;
+}
+
+  /* ==============================Section-Four==================================== */
+/*  ========================================================================== */
+
+
+/* ==============================Section-Five==================================== */
+/*  ========================================================================== */
+
+/* project start */
+.valor{
+  display: block;
+  width: 100%;
+}
+
+/* ==============================Section-Seven==================================== */
+/*  ========================================================================== */
+
+/* ==============================Section-Eight==================================== */
+/*  ========================================================================== */
+
+
+
+/* ==============================Section-nine==================================== */
+/*  ========================================================================== */
+.parent-nin-e{
+  width: 95%;
+  display: block;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 137px;
+  }
+  .des h3{
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 34px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  margin-bottom: 20px;
+  }
+  .des p{
+    display: none;
+
+  }
+  .des h4 a{
+    display: none;
+
+  }
+  .img-bigss img{
+    width: 100%;
+    height: 100%;
+  }
+/* ==============================Section-Eleven==================================== */
+/*  ========================================================================== */
+
+
+
+  
+/* ==============================Section-Fourteen==================================== */
+/*  ========================================================================== */
+
+.parent-fourteen{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 127px;
+  text-align: center;
+  
+}
+
+/* ==============================Section-Fifteen==================================== */
+/*  ========================================================================== */
+
+.parent-fifteen{
+  width: 100%;
+  background-color: #EDECED;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 78px;
+  
+}
+.marvim{
+  width: 100%;
+  
+}
+.marvim h2{
+  width: 90%;
+  margin: auto;
+
+}
+.img-nii img{
+  max-width: 90%;
+  height: 345px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+
+
+}
+
+
+/* ==============================Footer-section==================================== */
+  /*  ========================================================================== */
+
+.footer-four{
+  display: block;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+.formeaa{
+  display: block;
+  margin-top: 33px;
+  text-align: center;
+}
+.for-me #fnameola{
+  width: 308px;
+  height: 47px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  
+}
+.las h3{
+  width: 358px;
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-left: 10px;
+  letter-spacing: -0.48px;
+  text-align: center;
+}
+.atenion h3{
+margin-left: 10px;
+margin-top: 32px;
+}
+.group-img{
+  margin-left: 10px;
+}
+.atenion p{ 
+  margin-left: 10px;
+}
+.dag-di{
+  margin-bottom: 0px;
+}
+.plane{
+  margin-bottom:130px;
+}
+.foku{
+  margin-top: 30px;
+  text-align: center;
+}
+.group-img-two{
+  margin-left: 10px;
+}
+.group-img-two{
+  width: 95%;
+  display: block;
+  margin-top: 22px;
+  text-align: center;
+}
+.group-img{
+  display: none;
+}
+}
+
+
+
+@media (min-width:768px){
+  /* ================================Top-Header======================================  */
+
+  .parent-top{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left:10px;
+    padding-right: 5px;
+  }
+  .setap-div{
+    display: flex;
+    flex-basis: 50%;  
+  }
+  .setap-div-two{
+    display: flex;
+    margin-left: 0px;
+    flex-basis: 50%;
+    cursor: pointer;
+  }
+
+/*  ================================Middle-Header====================================== */
+  .child-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+   
+  }
+  #fnamekuku{
+    width: 440px;
+    height: 43px;
+  margin-top: 20px;
+
+  }
+
+  /* ==============================Section-one==================================== */
+/*  ========================================================================== */
+.parent-one{
+  width: 95%;
+  margin: auto;
+  display: block;
+  margin-top: 53.08px;
+
+}
+.perfimu-sisi{
+  flex-basis:100%;
+  
+}
+.img-per{
+  width: 50%;
+  height: 50%;
+  text-align: center;
+
+}
+.img-per img{
+  width: 100%;
+  height: 100%;
+
+}
+.right-site p{
+  width: 100%;
+
+}
+.ml-25 h3{
+  font-size: 12px;
+
+}
+.ml-50 h3{
+font-size: 12px;
+
+}
+.anadir h3{
+  width: 90%;
+  
+}
+.entrega{
+  display: block;
+  margin-top: 29.93px;
+}
+.entrega-aa{
+  width: 100%;
+  background-color: #EDECED;
+  
+}
+.dispon-si{
+  width: 100%;
+  background-color: #EDECED;
+  margin-left: 0px;
+margin-top: 20px;
+}
+
+/* ============Section-Two================ */
+/*  ========================================================================== */
+
+.parent-twoss{
+  display: block;
+  width: 100%;
+  align-items: center;
+  padding-top: 55.94px;
+
+}
+.swiper-lolo {
+  width: 90%;
+
+  height: 100%;
+
+}
+.car-ho{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  margin-top: 30px;
+  }
+  .rak-dag{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 4px solid black;
+   margin-top: 50px;
+  }
+
+/* ==============================Section-Five==================================== */
+/*  ========================================================================== */
+
+/* project start */
+.valor{
+  display: block;
+  width: 100%;
+}
+
+/* ==============================Section-Seven==================================== */
+/*  ========================================================================== */
+
+.parent-seven{
+  width: 58%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 127px;
+}
+.upore{
+  position: absolute;
+  top: 150px;
+  left: -150px;
+}
+
+.swiper-fuuu {
+  width: 210px;
+  height: 465px;
+  padding-top: 50px;
+
+}
+
+
+/* ==============================Section-nine==================================== */
+/*  ========================================================================== */
+.parent-nin-e{
+  width: 95%;
+  display: block;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 137px;
+
+  }
+  .des h3{
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+    text-align: center;
+
+  }
+
+  .des p{
+    display: none;
+
+  }
+  .des h4 a{
+    display: none;
+
+  }
+  .img-bigss img{
+    width: 100%;
+    height: 100%;
+  }
+
+/* ==============================Section-Eleven==================================== */
+/*  ========================================================================== */
+
+.parennt-eleven{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 63px;
+}
+.soto-kore{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.soto-kore-abr{
+  display: flex;
+  flex-wrap: wrap;
+}
+.extra-en h3{
+  margin-top: 41px;
+  padding-left: 16px;
+  padding-bottom: 20px;
+  }
+/* ==============================Section-Fifteen==================================== */
+/*  ========================================================================== */
+
+.parent-fifteen{
+  width: 100%;
+  background-color: #EDECED;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 78px;
+}
+.marvim{
+  width: 100%;
+  
+}
+.marvim h2{
+  width: 90%;
+  margin: auto;
+
+}
+.img-nii img{
+  max-width: 90%;
+  height: 345px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+
+
+}
+
+/* ==============================Footer-section==================================== */
+  /*  ========================================================================== */
+
+  .footer-four{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .formeaa{
+    display: block;
+    margin-top: 33px;
+  }
+  .for-me #fnameola{
+    width: 308px;
+    height: 47px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  .las h3{
+    width: 428px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin-left: 10px;
+    letter-spacing: -0.48px;
+  }
+  .atenion h3{
+  margin-left: 10px;
+  }
+  .group-img{
+    margin-left: 10px;
+  }
+  .atenion p{ 
+    margin-left: 10px;
+  }
+  .dag-di{
+    margin-bottom: 0px;
+  }
+  .plane{
+    margin-bottom:130px;
+  }
+  .foku{
+    margin-top: 30px;
+  }
+  
+  .group-img-two{
+    display: none;
+  }
+}
+
+
+
+@media (min-width:992px){
+
+    /* ================================Top-Header======================================  */
+  
+    .parent-top{
+      display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left:10px;
+    padding-right: 5px;
+    
+    }
+    .setap-div{
+      display: flex;
+       flex-basis: 50%;
+       
+    }
+    .setap-div-two{
+      display: flex;
+    margin-left: 0px;
+      flex-basis: 50%;
+      cursor: pointer;
+    }
+
+
+
+/*  ================================Middle-Header====================================== */
+.child-two{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  align-items: center;
+ 
+}
+#fnamekuku{
+  width: 440px;
+  height: 43px;
+margin-top: 0px;
+
+}
+
+/*  ================================Last-Header====================================== */
+
+
+.headerss{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 100;
+  top: 0px;
+  left: 0;
+  width: 100%;
+padding: 46px 0px 25px 0px;
+
+
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+ 
+}
+.navbar a{
+  text-decoration: none;
+color: #FFF;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 4px 2px;
+margin: 0px 3px;
+transition: 0.3s;
+}
+
+  /* ==============================Section-one==================================== */
+/*  ========================================================================== */
+.parent-one{
+  width: 95%;
+  margin: auto;
+  display: flex;
+  margin-top: 53.08px;
+
+}
+.perfimu-sisi{
+  flex-basis:100%;
+  
+}
+.img-per{
+  width: 50%;
+  height: 50%;
+  text-align: center;
+
+}
+.img-per img{
+  width: 100%;
+  height: 100%;
+
+}
+.right-site p{
+  width: 100%;
+
+}
+.ml-25 h3{
+  font-size: 12px;
+
+}
+.ml-50 h3{
+font-size: 12px;
+
+}
+.anadir h3{
+  width: 90%;
+}
+.entrega{
+  display: block;
+  margin-top: 29.93px;
+}
+.entrega-aa{
+  width: 100%;
+  background-color: #EDECED;
+  
+}
+.dispon-si{
+  width: 100%;
+  background-color: #EDECED;
+  margin-left: 0px;
+margin-top: 20px;
+}
+
+/* ============Section-Two================ */
+/*  ========================================================================== */
+
+.parent-twoss{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding-top: 55.94px;
+
+}
+.swiper-lolo {
+  width: 400px;
+  height: 100%;
+  margin: auto;
+}
+
+.car-ho{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  margin-top: 30px;
+  }
+  .rak-dag{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 4px solid black;
+   margin-top: 50px;
+  }
+
+/* ==============================Section-Five==================================== */
+/*  ========================================================================== */
+
+/* project start */
+.valor{
+  display: flex;
+  width: 100%;
+
+}
+.DEJA h2 a{
+  color: #101820;
+text-align: center;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 1px solid #101820;
+padding: 5px 25px;
+background-color: white;
+transition: 0.3s;
+
+}
+
+/* ==============================Section-Seven==================================== */
+/*  ========================================================================== */
+
+.parent-seven{
+  width: 58%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 127px;
+}
+.upore{
+  position: absolute;
+  top: 150px;
+  left: -150px;
+}
+
+.swiper-fuuu {
+  width: 210px;
+  height: 465px;
+  padding-top: 50px;
+
+}
+
+/* ==============================Section-nine==================================== */
+/*  ========================================================================== */
+.parent-nin-e{
+  width: 95%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 137px;
+
+  }
+  .des h3{
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+    text-align: start;
+
+  }
+  .des p{
+    display: inline-block;
+    width: 90%;
+    color: #101820;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 26.63px;
+  margin-bottom: 27px;
+
+  }
+  .des h4 a{
+    display: inline-block;
+    color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 5px 30px;
+  border: 2px solid #101820;
+  background-color: #fff;
+  transition: 0.3s;
+  }
+  .img-bigss img{
+    width: 400px;
+    height: 400px;
+  }
+
+
+
+/* ==============================Section-Eleven==================================== */
+/*  ========================================================================== */
+
+.parennt-eleven{
+  width: 80%;
+  margin: auto;
+  display: block;
+  justify-content: space-around;
+  margin-top: 63px;
+}
+.soto-kore{
+  display: flex;
+ 
+  flex-wrap: wrap;
+
+}
+.soto-kore-abr{
+  display: flex;
+
+  flex-wrap: wrap;
+  
+}
+.extra-en h3{
+  margin-top: 41px;
+  padding-left: 16px;
+  padding-bottom: 20px;
+  }
+/* ==============================Section-Fifteen==================================== */
+/*  ========================================================================== */
+
+.parent-fifteen{
+  width: 100%;
+  background-color: #EDECED;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 78px;
+}
+.marvim{
+  width: 100%;
+  
+}
+.marvim h2{
+  width: 90%;
+  margin: auto;
+
+}
+.img-nii img{
+  max-width: 90%;
+  height: 345px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+
+
+}
+
+/* ==============================Footer-section==================================== */
+  /*  ========================================================================== */
+
+  .footer-four{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  .formeaa{
+    display: block;
+    margin-top: 33px;
+    
+  }
+  .for-me #fnameola{
+    width: 308px;
+    height: 47px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+   
+  }
+  .las h3{
+    width: 380px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -0.48px;
+    margin-left: 3px;
+
+  }
+
+  .atenion h3{
+  margin-left: 10px;
+  }
+  .group-img{
+    margin-left: 10px;
+  }
+  .atenion p{ 
+    margin-left: 10px;
+  }
+  .dag-di{
+    margin-bottom: 0px;
+  }
+  .plane{
+    margin-bottom:130px;
+  }
+  .foku{
+    margin-top: 30px;
+  }
+  .group-img-two{
+    display: none;
+  }
+  
+}
+
+
+
+@media (min-width:1400px){
+      /* ================================Top-Header======================================  */
+      .parent-top{
+        display: flex;
+      width: 100%;
+      justify-content: space-around;
+      padding-top: 20px;
+      padding-left: 95px;
+      padding-right: 35px;
+      
+      }
+      .setap-div{
+        display: flex;
+         flex-basis: 70%;
+        
+      }
+      .setap-div-two{
+        display: flex;
+      margin-left: 50px;
+        flex-basis: 30%;
+        cursor: pointer;
+      }
+
+  
+  
+  
+  /*  ================================Middle-Header====================================== */
+  .child-two{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:nowrap;
+    align-items: center;
+  }
+  #fnamekuku{
+    width: 840px;
+    height: 43px;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: italic; 
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0px;
+  }
+
+  
+  /*  ================================Last-Header====================================== */
+  
+  .headerss{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 100;
+    top: 0px;
+    left: 0;
+    width: 100%;
+  padding: 46px 0px 25px 0px;
+  }
+  .navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .navbar a{
+    text-decoration: none;
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 10px 22px;
+  margin: 0px 10px;
+  transition: 0.3s;
+  }
+
+  /* ==============================Section-one==================================== */
+/*  ========================================================================== */
+.parent-one{
+  width: 95%;
+  margin: auto;
+  display: flex;
+  margin-top: 53.08px;
+
+}
+
+.perfimu-sisi{
+  display: flex;
+  flex-basis:47%;
+  
+}
+.img-per{
+  width: 466.47px;
+  height: 466.47px;
+  text-align: center;
+ 
+}
+
+.right-site p{
+  width: 614px;
+  color: #101820;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 15.66px;
+ 
+}
+.ml-25 h3{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border: 1px solid #101820;
+  padding: 6.45px 17px  6.42px 17px;
+  cursor: pointer;
+  box-shadow: 2px 2px  black;
+  transition: 0.3s;
+ 
+}
+
+.ml-50 h3{
+font-size: 19px;
+
+}
+.anadir h3{
+  width: 413px;
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 5.53px 0px 7.74px 0px;
+  border: 2px solid #101820;
+  cursor: pointer;
+ 
+}
+.entrega{
+  display: flex;
+  margin-top: 29.93px;
+ 
+}
+.entrega-aa{
+  width: 330px;
+  background-color: #EDECED;
+  
+}
+.dispon-si{
+  width: 334px;
+  background-color: #EDECED;
+  margin-left: 17px;
+  margin-top: 0px;
+}
+
+/* ============Section-Two================ */
+/*  ========================================================================== */
+.parent-twoss{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding-top: 55.94px;
+  
+}
+
+.swiper-lolo {
+  width: 500px;
+  height: 100%;
+  margin: auto;
+}
+
+.car-ho{
+  width: 100%;
+  margin: auto;
+  display: flex;
+  margin-top: 0px;
+
+  }
+  .rak-dag{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 4px solid black;
+   margin-top: 108.62px;
+  }
+
+
+/* ==============================Section-Five==================================== */
+/*  ========================================================================== */
+
+/* project start */
+.valor{
+  display: flex;
+  width: 100%;
+
+}
+.DEJA h2 a{
+  color: #101820;
+text-align: center;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 1px solid #101820;
+padding: 5px 25px;
+background-color: white;
+transition: 0.3s;
+
+}
+
+/* ==============================Section-Seven==================================== */
+/*  ========================================================================== */
+
+.parent-seven{
+  width: 58%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 127px;
+}
+.upore{
+  position: absolute;
+  top: 150px;
+  left: -150px;
+}
+
+.swiper-fuuu {
+  width: 210px;
+  height: 465px;
+  padding-top: 50px;
+
+}
+
+
+/* ==============================Section-nine==================================== */
+/*  ========================================================================== */
+.parent-nin-e{
+  width: 95%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 137px;
+
+  }
+  .des h3{
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+    text-align: start;
+
+  }
+  .des p{
+    display: inline-block;
+    width: 70%;
+    color: #101820;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 26.63px;
+  margin-bottom: 27px;
+
+  }
+  .des h4 a{
+    display: inline-block;
+    color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 5px 30px;
+  border: 2px solid #101820;
+  background-color: #fff;
+  transition: 0.3s;
+  }
+  .img-bigss img{
+    width: 680px;
+    height: 680px;
+  }
+
+
+  
+  /* ==============================Section-Eleven==================================== */
+  /*  ========================================================================== */
+  .parennt-eleven{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 63px;
+  }
+  .soto-kore{
+    display: flex;
+    flex-wrap: nowrap;
+    
+   
+  }
+  
+  .soto-kore-abr{
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .extra-en h3{
+    margin-top: 41px;
+    padding-left: 16px;
+    padding-bottom: 0px;
+    }
+
+  /* ==============================Section-Fifteen==================================== */
+  /*  ========================================================================== */
+  
+  .parent-fifteen{
+    width: 100%;
+    background-color: #EDECED;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    text-align: center;
+    margin-top: 78px;
+  }
+  .marvim{
+    width: 700px;
+  }
+  .marvim h2{
+    width: 398px;
+    margin: auto;
+    color: #101820;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; 
+    margin-top: 42.32px;
+  }
+  .img-nii img{
+    width: 735px;
+    height: 445px;
+    margin-top: 20px;
+    margin-bottom: 14px;
+  
+  
+  }
+
+  
+  /* ==============================Footer-section==================================== */
+    /*  ========================================================================== */
+    .footer-four{
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: nowrap;
+      align-items: center;
+    }
+    .formeaa{
+      display: flex;
+      margin-top: 33px;
+    }
+    .for-me #fnameola{
+      width: 308px;
+      height: 47px;
+      margin-left: 0px;
+      margin-bottom: 0px;
+    }
+    .las h3{
+      width: 428px;
+      color: #FFF;
+      font-family: Montserrat;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 30px;
+      letter-spacing: -0.48px;
+      margin-left: 0px;
+    }
+    .atenion h3{
+      color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 0px;
+    }
+    .group-img{
+      margin-top: 22px;
+      cursor: pointer;
+      margin-left: 0px;
+    }
+    .atenion p{
+      color: #FFF;
+      font-family: Montserrat;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px; 
+      margin-left: 0px;
+    }
+    .dag-di{
+      margin-bottom: 130px;
+    }
+    .plane{
+      margin-bottom:250px;
+    }
+    .foku{
+      margin-top: 15px;
+    }
+
+.group-img-two{
+  display: none;
+}
+ 
+}
+
+
+
+
+
+
+
+
+/* MediaQuery Nav bar */ 
+
+/*responsive*/
+@media(min-width: 992px){
+  .header .menu > ul > li.menu-item-has-children:hover .sub-menu{
+    margin-top: 10px;
+    visibility: visible;
+    opacity: 1;
+    
+  }
+  }
+  .header .menu > ul > li .sub-menu > ul > li{
+    line-height: 1;
+    
+  }
+  .header .menu > ul > li .sub-menu > ul > li > a{
+    display: inline-block;
+    padding: 10px 0;
+    font-size: 15px;
+    color: #555555;
+    transition: color 0.3s ease;
+    text-decoration: none;
+    text-transform: capitalize;
+    
+  }
+  .menu-item-has-children i{
+    display: none;
+  }
+  .header .menu > ul > li .single-column-menu{
+    min-width: 280px;
+    max-width: 350px;
+    
+  }
+  .header .menu > ul > li .sub-menu.mega-menu > .list-item > ul > li{
+     line-height: 1;
+     display: block;    
+  }
+  .header .menu > ul > li .sub-menu.mega-menu > .list-item > ul > .dag-sob{
+  
+    border-right: 2px solid #D0D0D2;
+    padding-left: 36.5px;
+   
+    
+ }
+  .header .menu > ul > li .sub-menu.mega-menu > .list-item > ul > li > a {
+    padding:10px 0;
+    display: inline-block;
+    font-size: 15px;
+    color:#555555;
+    transition: color 0.3s ease;
+  
+  }
+  .header .menu > ul > li .sub-menu.mega-menu{ 
+      left: 50%;
+      transform: translateX(-50%);	
+      
+  }
+  
+  .header .menu > ul > li .sub-menu.mega-menu-column-4{
+    max-width: 100%;
+    width: 100%; 	
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding:20px 15px;
+    background-color: #fff;
+    
+  }
+
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item .title{
+    margin-top: 60px;
+    padding:10px 0;
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+  }
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item .dage{
+   
+   
+    border-right: 2px solid #D0D0D2;
+    padding-left: 29.5px;
+  }
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-itemss .title{
+    margin-top: 60px;
+    padding:10px 0;
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+  }
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-itemss .titles-two{
+    padding:10px 0;
+    color: #101820;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item.text-center .title{
+    text-align: center;
+   
+  }
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item img{
+  
+    margin-top: 60px;
+   
+  }
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item .img-sisi{
+    position: relative;
+    
+   
+  }
+
+  .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item  .img-pata{
+    position: absolute;
+    top: 10px;
+    right: 160px;
+    
+   
+  }
+  .header .menu > ul > li .sub-menu.mega-menu > .list-item > ul > li > a:hover,
+  .header .menu > ul > li .sub-menu > ul > li > a:hover,
+  .header .item-right a:hover,
+  .header .menu > ul > li:hover > a{
+    color:black;
+    background: white;
+  }
+  /* banner section */
+
+  .mobile-menu-head,
+  .mobile-menu-trigger{
+    display: none;
+  }
+  
+  /*responsive*/
+  @media(max-width: 991px){
+  
+    .header .item-center{
+      order:3;
+      flex:0 0 100%;
+      
+    }
+    .header .item-left,
+    .header .item-right{
+      flex:0 0 auto;
+    }
+    .v-center{
+      justify-content: end;
+      
+    }
+
+    .menu-item-has-children i{
+      display: block;
+    }
+
+    .header .mobile-menu-trigger{
+      display: flex;
+      height: 30px;
+      width: 30px;
+      margin-left: 15px;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+    }
+    .header .mobile-menu-trigger span{
+      display: block;
+      height: 2px;
+      background-color: white;
+      width: 24px;
+      position: relative;
+    }
+    .header .mobile-menu-trigger span:before,
+    .header .mobile-menu-trigger span:after{
+      content: '';
+      position: absolute;
+      left:0;
+      width: 100%;
+      height: 100%;
+      background-color: white;
+    }
+    .header .mobile-menu-trigger span:before{
+      top:-6px;
+    }
+    .header .mobile-menu-trigger span:after{
+      top:6px;
+    }
+    .header .item-right{
+      align-items: center;
+    }
+  
+    .header .menu{
+      position: fixed;
+      width: 320px;
+      background-color:#ffffff;
+      left:0;
+      top:0;
+      height: 100%;
+      overflow: hidden;
+      transform: translate(-100%);
+      transition: all 0.5s ease;
+      z-index: 1099;
+    }
+    .header .menu.active{
+       transform: translate(0%);	
+    }
+    .header .menu > ul > li{
+      line-height: 1;
+      margin:0;
+      display: block;
+    }
+    .header .menu > ul > li > a{
+      line-height: 50px;
+      height: 50px;
+      padding:0 50px 0 15px;
+      display: block;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
+    }
+    .header .menu > ul > li > a i{
+      position: absolute;
+      height: 50px;
+      width: 50px;
+      top:0;
+      right: 0;
+      text-align: center;
+      line-height: 50px;
+      transform: rotate(-90deg);
+    }
+    .header .menu .mobile-menu-head{
+      display: flex;
+      height: 50px;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+      z-index: 501;
+      position: sticky;
+      background-color: #ffffff;
+      top:0;
+    }
+    .header .menu .mobile-menu-head .go-back{
+      height: 50px;
+      width: 50px;
+      border-right: 1px solid rgba(0,0,0,0.1);
+      cursor: pointer;
+      line-height: 50px;
+      text-align: center;
+      color:#000000;
+      font-size: 16px;
+      display: none;
+      
+    }
+    .header .menu .mobile-menu-head.active .go-back{
+      display: block;
+    }
+    .header .menu .mobile-menu-head .current-menu-title{
+      font-size: 15px;
+      font-weight: 500;
+      color:#000000;
+      
+    }
+    .header .menu .mobile-menu-head .mobile-menu-close{
+        height: 50px;
+      width: 50px;
+      border-left: 1px solid rgba(0,0,0,0.1);
+      cursor: pointer;
+      line-height: 50px;
+      text-align: center;
+      color:#000000;	
+      font-size: 25px;
+     
+    }
+    .header .menu .menu-main{
+      height: 100%;
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+    .header .menu > ul > li .sub-menu.mega-menu,
+    .header .menu > ul > li .sub-menu{
+      visibility: visible;
+      opacity: 1;
+      position: absolute;
+      box-shadow: none;
+      margin:0;
+      padding:15px;
+      top:0;
+      left:0;
+      width: 100%;
+      height: 100%;
+      padding-top: 65px;
+      max-width: none;
+      min-width: auto;
+      display: none;
+      transform: translateX(0%);
+      overflow-y: auto;
+    }
+  .header .menu > ul > li .sub-menu.active{
+    display: block;
+  }
+  @keyframes slideLeft{
+    0%{
+      opacity:0;
+      transform: translateX(100%);
+    }
+    100%{
+        opacity:1;
+      transform: translateX(0%);	
+    }
+  }
+  @keyframes slideRight{
+    0%{
+      opacity:1;
+      transform: translateX(0%);
+    }
+    100%{
+        opacity:0;
+      transform: translateX(100%);	
+    }
+  }
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item img{
+      margin-top:0;
+   
+    }
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item .img-sisi{
+      position: relative;
+      
+     
+    }
+  
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item  .img-pata{
+      display: none;
+      
+     
+    }
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item {
+      text-align: center;
+       
+      
+     }
+
+
+
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item.text-center .title{
+      margin-bottom: 20px;
+    }
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item.text-center:last-child .title{
+      margin-bottom:0px;
+    }
+    .header .menu > ul > li .sub-menu.mega-menu-column-4 > .list-item{
+      flex: 0 0 100%;
+          padding: 0px;
+    }
+    .header .menu > ul > li .sub-menu > ul > li > a,
+    .header .menu > ul > li .sub-menu.mega-menu > .list-item > ul > li > a{
+      display: block;
+    }
+    .header .menu > ul > li .sub-menu.mega-menu > .list-item > ul {
+      margin-bottom: 15px;
+    }
+    .menu-overlay{
+      position: fixed;
+      background-color: rgba(0,0,0,0.5);
+      left:0;
+      top:0;
+      width: 100%;
+      height: 100%;
+      z-index: 1098;
+      visibility: hidden;
+      opacity:0;
+      transition: all 0.5s ease;
+    }
+    .menu-overlay.active{
+      visibility: visible;
+      opacity:1;	
+    }
+  }
+  
+  
+  

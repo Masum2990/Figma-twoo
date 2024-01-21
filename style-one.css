@@ -1,0 +1,1301 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* ================================Top-Header======================================  */
+
+
+/* menu */
+
+/* menu-end */
+
+.parent-top{
+  display: flex;
+width: 100%;
+justify-content: space-around;
+padding-top: 20px;
+padding-left: 95px;
+padding-right: 35px;
+
+}
+.setap-div{
+  display: flex;
+   flex-basis: 70%;
+  
+}
+.setap-div-two{
+  display: flex;
+margin-left: 50px;
+  flex-basis: 30%;
+  cursor: pointer;
+}
+
+.setap-one h2{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+.setap-one p{
+  color: #101820;
+font-family: Montserrat;
+font-size: 9px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+}
+.setap-two{
+  color: #101820;
+font-family: Montserrat;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+/*  ================================Middle-Header====================================== */
+
+
+.parent-two{
+  width: 100%;
+  background: #101820;
+  padding-top: 62px;
+ 
+}
+.child-two{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#fnamekuku{
+  width: 840px;
+  height: 43px;
+  font-size: 14px;
+  font-family: Montserrat;
+  font-style: italic; 
+  font-weight: 400;
+  line-height: normal;
+}
+#fnamekuku::placeholder{
+  color: #101820;
+  padding-left: 20px;
+}
+.marvi h2{
+  word-spacing: 10px;
+}
+
+/*  ================================Last-Header====================================== */
+
+:before,:after{
+	box-sizing: border-box;
+}
+.container{
+	max-width: 100%;
+	margin:auto;
+
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.v-center{
+	align-items: center;
+}
+ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration: none;
+}
+/* header */
+.header{
+	display: block;
+	width: 100%;
+	position: relative;
+	z-index: 99;
+	padding:46px 0px 21px 0px;
+  background-color: black;
+}
+
+.header .item-center{
+	flex:100%;
+  
+ 
+}
+
+
+.header .menu > ul > li{
+	display: inline-block;
+	line-height: 30px;
+	margin-left: 31px;
+  margin-right: 38px;
+  transition: 0.3s;
+  background: black;
+}
+.header .menu > ul > li > a{
+	position: relative;
+	text-transform: capitalize;
+	transition: color 0.3s ease;
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  background: black;
+  
+}
+.header .menu > ul > li .sub-menu{
+	position: absolute;
+	z-index: 500;
+	background-color:#ffffff;
+	box-shadow: -2px 2px 70px -25px rgba(0,0,0,0.3); 
+	padding: 20px 30px;
+	transition: all 0.5s ease;
+	margin-top:25px;
+	opacity:0;
+	visibility: hidden;
+}
+
+.list-item h4{
+  text-align: center;
+  color: #101820;
+font-family: Montserrat;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.list-item h3{
+  text-align: center;
+  color: #101820;
+font-family: Montserrat;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.list-item h5{
+  text-align: center;
+  color: #101820;
+font-family: Montserrat;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.list-item p{
+  text-align: center;
+  color: #101820;
+font-family: Montserrat;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.list-item h2{
+  text-align: center;
+  margin-bottom: 54px;
+}
+.list-item h2 a{
+  color: #101820;
+text-align: center;
+font-family: Montserrat;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 1px solid black;
+padding: 5px 5px;
+transition: 0.3s;
+}
+.list-item h2 a:hover{
+background: #101020;
+color: #FFF;
+}
+
+
+
+/* ==============================Section-One==================================== */
+/*  ========================================================================== */
+
+.parent-one{
+  width: 95%;
+  margin: auto;
+  display: flex;
+  margin-top: 53.08px;
+  
+}
+.perfimu-sisi{
+  display: flex;
+  flex-basis:47%;
+}
+
+.right-site{
+  flex-basis: 53%;
+
+}
+.img-69{
+margin-top: 42.38px;
+}
+.img-per{
+  width: 466.47px;
+  height: 466.47px;
+  text-align: center;
+ 
+}
+
+
+.right-site h6{
+  color: #101820;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.right-site h5{
+  
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+ 
+}
+.right-site .eau-de{
+  color: #101820;
+  font-family: Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  
+}
+.right-site p{
+  width: 614px;
+  color: #101820;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 15.66px;
+ 
+}
+.star-one{
+  margin-top: 20.27px;
+}
+.star-one .two{
+  color: #101820;
+  font-family: Helvetica;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.star-one .deja-tu{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.ml{
+  display: flex;
+  margin-top: 21.42px;
+  
+}
+.ml-25 h3{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border: 1px solid #101820;
+  padding: 6.45px 17px  6.42px 17px;
+  cursor: pointer;
+  box-shadow: 2px 2px  black;
+  transition: 0.3s;
+ 
+}
+.ml-25 h3:hover{
+  background-color: #101020;
+  color: #FFF;
+}
+.ml-50 h3{
+  color: #D0D0D2;
+font-family: Montserrat;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 1px solid #D0D0D2;
+padding: 6.45px 17px  6.42px 17px;
+margin-left: 24.17px;
+cursor: pointer;
+box-shadow: 2px 2px  #D0D0D2;
+transition: 0.3s;
+}
+.ml-50 h3:hover{
+  background-color: #D0D0D2;
+  color: #FFF;
+}
+.anadir {
+  margin-top: 22.22px;
+}
+.anadir h3{
+  width: 413px;
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 5.53px 0px 7.74px 0px;
+  border: 2px solid #101820;
+  cursor: pointer;
+ 
+}
+.entrega{
+  display: flex;
+  margin-top: 29.93px;
+ 
+}
+.entrega-aa{
+  width: 330px;
+  background-color: #EDECED;
+  
+}
+.entrega-aa h5{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; 
+  padding: 5.1px 42px 34.51px 17px;
+}
+.entrega-aa h5 .de1{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; 
+}
+.entrega-aa h5 .dispon{
+  color: #6DCF63;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; 
+}
+
+.dispon-si{
+  width: 334px;
+  background-color: #EDECED;
+  margin-left: 17px;
+}
+.dispon-si h5{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  padding: 5.1px 79.64px 11.48px 18.03px;
+  
+}
+.dispon-si h5 .unid-ki{
+  color: #6DCF63;
+font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 25px;
+}
+.dispon-si h5 .elegi{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  text-decoration-line: underline;
+ 
+}
+
+
+/* ==============================Section-Two==================================== */
+/*  ========================================================================== */
+.parent-twoss{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding-top: 55.94px;
+  
+}
+.swiper-daa{
+  flex-basis: 47%;
+}
+.right-two{
+  flex-basis: 53%;
+}
+/* swiper */
+
+
+.swiper-lolo {
+  width: 500px;
+  height: 100%;
+  
+}
+
+
+/* End */
+.car-ho{
+display: flex;
+
+}
+.envio h3{
+  color: #101820;
+font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 19.64px;
+
+}
+.envio h3 .devol{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  
+}
+.rak-dag{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 4px solid black;
+ margin-top: 108.62px;
+}
+.tu-ragalo h3{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; 
+}
+.tu-ragalo h3 .regalo{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; 
+}
+
+
+
+/* ==============================Section-Three==================================== */
+/*  ========================================================================== */
+.parent-three{
+  display: flex;
+  width: 100%;
+margin-top: 120px;
+
+}
+.left-ki{
+  flex-basis: 47%;
+  
+}
+.hiho{
+  margin:0px 30px;
+}
+.right-ki{
+  flex-basis: 53%;
+
+}
+.application{
+  width: 100%;
+}
+
+
+/* ==============================Section-Four==================================== */
+/*  ========================================================================== */
+
+
+.parent-six{
+  width: 100%;
+  margin-top: 102px;
+}
+
+.swiper-pera {
+  width: 90%;
+  margin: auto;
+  height: 100%;
+
+}
+.COMPLETA{
+  text-align: center;
+  margin-bottom: 55px;
+}
+.COMPLETA h2{
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.slidea-jamela {
+  text-align: center;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.img-sideup{
+  position: relative;
+}
+.img-sideup-two{
+  position: absolute;
+  top: 0;
+  right: 40px;
+}
+
+.img-sideup p{
+  color: #101820;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 29px;
+}
+.img-sideup h2{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.img-sideup h4{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.img-sideup h5{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.img-sideup h6{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.img-sideup h6 a{
+  text-decoration: none;
+  color: #101820;
+font-family: Montserrat;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 2px 4px;
+border: 2px solid #101820;
+box-shadow: 1px 1px 1px black;
+
+}
+.img-sideup h6 span a{
+  text-decoration: none;
+  color: #D0D0D2;
+  font-family: Montserrat;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 2px 4px;
+  border: 2px solid #D0D0D2;
+  margin-left: 5px;
+}
+.img-sideup h3{
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 30px;
+}
+.onekcolor{
+  margin-top: 10px;
+  
+}
+.img-sideup  h3 a{
+  text-decoration: none;
+  color: #101820;
+text-align: center;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 10px 25px 5px 25px;
+border: 1px solid black;
+background: #fff;
+transition: 0.3s;
+}
+
+.img-sideup  h3 a:hover{
+  color: #101820;
+background: #BDC3C7;
+border: 1px solid #85929E;
+}
+
+
+
+
+/* ==============================Section-Five==================================== */
+/*  ========================================================================== */
+
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  margin: auto;
+  margin-top: 100px;
+
+}
+.kobe-hobe{
+  display: flex;
+  margin-top: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.158);
+ 
+}
+.roger-r{
+  margin-left: 20px;
+  
+}
+.roger-r h3{
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #010101;
+
+}
+.tabs__content{
+  
+  border-top: 1px solid #D0D0D2;
+}
+.roger-r a{
+  color: #f6be51;
+}
+.roger-r p{
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #777777;
+}
+.tabs__label {
+  padding: 10px 0px;
+  cursor: pointer;
+  margin-right: 70px;
+  font-family: "poppins",sans-serif;
+  font-size: 16px;
+  color: #333333;
+ 
+  
+}
+.tabs__content p{
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #777777;
+  margin-top: 30px;
+}
+.tabs__radio {
+  display: none;
+}
+
+.tabs__content {
+  order: 1;
+  width: 100%;
+  line-height: 1.5;
+  font-size: 0.9em;
+  display: none;
+ 
+}
+
+.tabs__radio:checked + .tabs__label {
+  font-weight: bold;
+  color: black;
+  border-bottom: 2px solid #101820;
+}
+
+.tabs__radio:checked + .tabs__label + .tabs__content {
+  display: initial;
+}
+
+/* project start */
+.valor{
+  display: flex;
+  width: 100%;
+
+}
+.first1{
+  flex-basis: 35%;
+}
+.media h2{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 25px;
+  margin-bottom: 26px;
+}
+.valo-go h3 .five{
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.valo-go h3 .akso32{
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.first2{
+  flex-basis: 45%;
+
+}
+.trade{
+  display: flex;
+  align-items: center;
+  
+}
+.General h3{
+  color: #101820;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-right: 15px;
+}
+.first3{
+  flex-basis: 20%;
+}
+.DEJA h2{
+margin-top: 15px;
+}
+.DEJA h2 a{
+  color: #101820;
+text-align: center;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 1px solid #101820;
+padding: 5px 27px;
+background-color: white;
+transition: 0.3s;
+
+}
+.DEJA h2 a:hover{
+  color: white;
+border: 1px solid burlywood;
+background-color: black;
+}
+
+
+
+/* ==============================Section-Six==================================== */
+/*  ========================================================================== */
+
+.parent-six{
+  width: 95%;
+  margin: auto;
+  margin-top: 79px;
+  
+}
+.kudd{
+  display: flex;
+  align-items: center;
+}
+.ogoha{
+  display: flex;
+  align-items: center;
+
+}
+.ak-1 p{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.por h3{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.fa-caret-down{
+  margin: 0px 13px;
+  color:  #101820;;
+}
+.gosuu{
+  display: flex;
+  margin-top: 58.8px;
+}
+.funee{
+  flex-basis: 20%;
+}
+.funee h2 .fu-ne{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; 
+}
+.funee h2 .lugar{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; 
+}
+.tarare{
+  flex-basis: 80%;
+}
+.tarare h5{
+  color: #101820;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+}
+.tarare h4{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+.tarare p{
+  color: #101820;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; 
+}
+
+
+/* ==============================Section-Seven==================================== */
+/*  ========================================================================== */
+.parent-sevenss{
+  width: 93%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 46px;
+}
+.ak1 h3{
+  color: #101820;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.most h3 a{
+  color: #101820;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 1px solid #101820;
+padding: 5px 30px;
+transition: 0.3s;
+background: white;
+}
+.most h3 a:hover{
+  color: #fff;
+background-color: #010101;
+border: 1px solid #6DCF63;
+
+}
+
+/* ==============================Section-Eight==================================== */
+/*  ========================================================================== */
+
+/* section four aa deigine kora */
+
+
+/* ==============================Section-Nine==================================== */
+/*  ========================================================================== */
+.parent-nin-e{
+width: 95%;
+display: flex;
+margin: auto;
+justify-content: space-between;
+align-items: center;
+margin-top: 137px;
+
+}
+
+.img-bigss img{
+  width: 680px;
+  height: 680px;
+}
+
+.des h3{
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+}
+.des p{
+  width: 70%;
+  color: #101820;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 26.63px;
+margin-bottom: 27px;
+}
+.des h4 a{
+  color: #101820;
+text-align: center;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 5px 30px;
+border: 2px solid #101820;
+background-color: #fff;
+transition: 0.3s;
+}
+.des h4 a:hover{
+  color: #fff;
+  border: 2px solid #6DCF63;
+  background-color: black;
+}
+/* ==============================Section-Fourteen==================================== */
+/*  ========================================================================== */
+
+.parent-fourteen{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 127px;
+  text-align: center;
+}
+.entregatoto h2{
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 32.38px;
+}
+.entregatoto p{
+  width: 195px;
+  color: #101820;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+
+/* ==============================Section-Fifteen==================================== */
+/*  ========================================================================== */
+
+.parent-fifteen{
+  width: 100%;
+  background-color: #EDECED;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 78px;
+}
+.mniejamlea{
+  margin-top: 59.41px;
+}
+.marvim{
+  width: 700px;
+}
+.marvim h2{
+  width: 398px;
+  margin: auto;
+  color: #101820;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px; 
+  margin-top: 42.32px;
+}
+
+.marvim h3{
+margin-top: 36px;
+}
+.marvim h3 a {
+  text-decoration: none;
+  color: #101820;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 10px 25px;
+  border: 2px solid black;
+  background: #EDECED;
+  transition: 0.3s;
+}
+.marvim h3 a:hover {
+  color: #101820;
+  background: #BDC3C7;
+  border: 2px solid #85929E;
+}
+
+.img-nii img{
+  width: 735px;
+  height: 445px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+
+
+}
+
+
+
+/* ==============================Footer-section==================================== */
+  /*  ========================================================================== */
+
+.parent-footer{
+  width: 100%;
+  background-color: #101820;
+  padding-top: 54px;
+}
+.footer-four{
+  display: flex;
+  justify-content: space-around;
+}
+.formeaa{
+  display: flex;
+  margin-top: 33px;
+}
+.for-me ::placeholder{
+  color: #C4C4C4;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 21px;
+}
+.for-me #fnameola{
+  width: 308px;
+  height: 47px;
+  
+}
+.las h3{
+  width: 428px;
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: -0.48px;
+}
+.subsc h4{
+  margin-top: 15px;
+  margin-left: 12px;
+ 
+}
+.subsc h4 a{
+  text-decoration: none;
+  padding: 13px 25px ;
+  border: 2px solid white;
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  transition: 0.3s;
+
+}
+.subsc h4 a:hover{
+background: white;
+color: #101020;
+border: 2px solid greenyellow;
+}
+.atenion h3{
+  color: #FFF;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.atenion p{
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; 
+}
+.cilent p{
+width: 215px;
+margin-top: 10px;
+
+}
+.legal p{
+  width: 162px;
+  margin-top: 10px;
+ 
+}
+.sobre p{
+  width: 131px;
+  margin-top: 10px;
+}
+.group-img{
+  margin-top: 22px;
+  cursor: pointer;
+}
+.foku{
+  margin-top: 15px;
+}
+.acepto{
+  color: #FFF;
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.img-bag img{
+  width: 230px;
+  height: 358px;
+  
+}
+.m-diea{
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: auto;
+  
+}
+.img-setkorsi{
+  display: flex;
+  align-items: center;
+  margin-bottom: 65px;
+  
+}
+.marvico h3 span{
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 20px;
+}
+.img-visha img{
+  width: 144px;
+  height: 37px;
+  cursor: pointer;
+}
+.img-asm img{
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.img-gls img{
+  width: 81px;
+  height: 23px;
+  cursor: pointer;
+}
+.dag-di{
+  margin-bottom: 130px;
+}
+.plane{
+  margin-bottom:250px;
+
+
+}
+/*  */
+
